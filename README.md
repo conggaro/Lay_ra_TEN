@@ -1,1 +1,1 @@
-<div>alo 1234</div>
+<div style = "color: red">alo 1234</div>
